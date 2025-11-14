@@ -1,0 +1,7 @@
+{
+  "name": "Medical Report Generator",
+  "description": "An application to generate medical reports. It allows managing doctors, diagnoses, and report templates, and then creating, printing, and saving reports as PDF.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
