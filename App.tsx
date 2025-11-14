@@ -1,6 +1,6 @@
 
 import React, { useState } from 'react';
-import useLocalStorage from './hooks/useLocalStorage';
+import useLocalStorage from './src/hooks/useLocalStorage';
 import { Diagnosis, Doctor, Template } from './types';
 import MainForm from './components/MainForm';
 import AddDiagnosisForm from './components/AddDiagnosisForm';
