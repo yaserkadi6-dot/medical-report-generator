@@ -1,11 +1,12 @@
 {
   "name": "medical-report-generator",
+  "homepage": "https://yaserkadi6-dot.github.io/medical-report-generator",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "vite build --base=/medical-report-generator/",
     "preview": "vite preview"
   },
   "dependencies": {
